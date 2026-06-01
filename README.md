@@ -24,7 +24,8 @@
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=shaad2114&icon=6&color=6&label=Profile%20Views&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=shaad2114&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS)
+
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaad%20Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/shaad-ajij-shaikh-7837ba150)
   
@@ -239,10 +240,11 @@ status      : Open to Collaborations 🤝
 <div align="center">
 
 <a href="https://github.com/shaad2114">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shaad2114&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=shaad2114&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7B2FBE&icon_color=7B2FBE&text_color=ffffff"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaad2114&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shaad2114&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B2FBE&text_color=ffffff"/>
 </a>
+
 
 </div>
 
@@ -296,14 +298,12 @@ status      : Open to Collaborations 🤝
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaad2114/shaad2114/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaad2114/shaad2114/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/shaad2114/shaad2114/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 
-> 💡 **Setup tip:** Add a GitHub Actions workflow to auto-generate the snake animation. See [Platane/snk](https://github.com/Platane/snk) for instructions.
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 
 </div>
 
