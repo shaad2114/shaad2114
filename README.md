@@ -26,12 +26,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shaad2114&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS)
 
-  
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaad%20Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/shaad-ajij-shaikh-7837ba150)
-  
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-shaad2114-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaad2114)
-  
-[![Email](https://img.shields.io/badge/Email-shaad.ajij.shaikh%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:shaad.ajij.shaikh@outlook.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:shaad.ajij.shaikh@outlook.com)
+&nbsp;
+![Location](https://img.shields.io/badge/📍%20London-United%20Kingdom-7B2FBE?style=for-the-badge)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -258,21 +263,6 @@ status      : Open to Collaborations 🤝
 
 <!-- ████████████████████████████████████████████████████████████ -->
 
-<!--                  GITHUB TROPHIES                             -->
-
-<!-- ████████████████████████████████████████████████████████████ -->
-
-## 🏆   GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaad2114&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ████████████████████████████████████████████████████████████ -->
 
 <!--               GITHUB ACTIVITY GRAPH                          -->
 
